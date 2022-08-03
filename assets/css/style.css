@@ -1,9 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Mouse+Memoirs&display=swap');
+
 * {
     margin: 0;
     padding: 0;
     border: none;
-    font-family: Arial, Helvetica, sans-serif;
-    
+    font-family: Mouse Memoirs, sans-serif;
 }
 
 body {
@@ -11,5 +12,54 @@ body {
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
+    color: #fafafa;
+}
+
+/* headings */
+
+h1, h2 {
+    color: #fafafa;
+    text-transform: uppercase;
+    font-size: 200%;
+}
+
+/* logo */
+
+#logo {
+    float: left;
+    font-size: 400%;
+    color: #fafafa;
+    margin-left: 20px;
+}
+
+/* navigation links */
+
+#menu {
+    font-size: 150%;
+    color: #fafafa;
+    list-style-type: none;
+    text-decoration-line: none;
     
 }
+
+#menu, #logo {
+    line-height: 80px;
+}
+
+#menu li {
+    float: right;
+    margin-right: 20px;
+}
+
+#menu a {
+    color: #fafafa;
+}
+
+.active {
+    border: 1px, solid, #fafafa;
+}
+
+#menu a:hover {
+    border: 1px, solid, #fafafa;
+}
+
