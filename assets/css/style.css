@@ -53,13 +53,37 @@ h1, h2 {
 
 #menu a {
     color: #fafafa;
+    border: none;
+    text-decoration: none;
+    
+    
 }
 
 .active {
-    border: 1px, solid, #fafafa;
+    border: 1px solid #fafafa ;
 }
 
 #menu a:hover {
-    border: 1px, solid, #fafafa;
+    border: 1px solid #000000;
+    outline: none;
+} 
+
+/* footer */
+ 
+footer {
+    bottom: 0;
+}
+.social-networks {
+    text-align: center;
 }
 
+.social-networks > li {
+    display: inline;
+}
+
+.social-networks i {
+    font-size: 160%;
+    margin: 1%;
+    padding: 5%;
+    color: #fafafa;
+}
