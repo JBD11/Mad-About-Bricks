@@ -8,7 +8,7 @@
 }
 
 body {
-    background-image: url('../images/lego-3814795__480.jpeg');
+    background-image: url('../images/pexels-photo-4720385.webp');
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
@@ -54,7 +54,7 @@ h1, h2 {
 #menu a {
     color: #fafafa;
     border: none;
-    text-decoration: none;
+    text-decoration: underline;
     
     
 }
@@ -64,8 +64,9 @@ h1, h2 {
 }
 
 #menu a:hover {
-    border: 1px solid #000000;
-    outline: none;
+    color: #000000;
+
+    
 } 
 
 /* footer */
