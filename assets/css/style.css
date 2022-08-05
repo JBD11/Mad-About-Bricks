@@ -71,10 +71,21 @@ h1, h2 {
 /* footer */
  
 footer {
-    bottom: 0;
+    height: 150px;
 }
+
+footer {
+    position: absolute;
+    padding: 10px 10px 0 10px;
+    bottom: 0;
+    width: 100%;
+    height: 150px;
+    
+    
+}
+
 .social-networks {
-    text-align: center;
+     text-align: center;
 }
 
 .social-networks > li {
@@ -85,5 +96,6 @@ footer {
     font-size: 160%;
     margin: 1%;
     padding: 5%;
-    color: #fafafa;
+    color: #000000;
+    
 }
