@@ -179,21 +179,17 @@ footer > p {
     margin: 5px 0 20px 0;
     border: 1px solid #eed971ff;
     border-radius: 2px;
+    background-color: #eed971ff;
     
 }
 
 .text-input:hover {
     border-color:#000000;
 }
-a {
+p {
     color: #000000;
-    
-   
-}
-
-a:hover {
-    color: #fff;
-    
+    text-align: center;
+    font-size: 30px;
 }
 
 /* Media queries */
