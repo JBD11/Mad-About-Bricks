@@ -18,22 +18,19 @@
         <nav>
             <ul id="menu">
                 <li>
-                  <a href="contact.html" >Contact Us </a>
+                  <a href="contact.html" class="active" >Contact Us </a>
                 </li>
                 <li>
                   <a href="gallery.html">Gallery</a>
                 </li>
                 <li>
-                    <a href="index.html" class="active">Home</a>
+                    <a href="index.html">Home</a>
                 </li>
             </ul>
         </nav>
     </header>
-    <section id="hero-outer">
-        <div id="hero-image"></div>
-    </section>
-    <section class="container">
-        <form method="POST">
+     <section class="form-section">
+        <form method="POST" class="contact-form">
             <h2>Contact us</h2>
             <label for="fname">First Name</label>
             <input id="fname" name="first_name" type="text" required class="text-input">
@@ -43,10 +40,9 @@
             
             <label for="email" >Email Address</label>
             <input type="email" id="email" name="email_address" required class="text-input">
-            
-           
-            
-            <input type="submit">
+
+            <input class="send-button" type="submit" value="Send">
+
         </form>
     </section>
         
