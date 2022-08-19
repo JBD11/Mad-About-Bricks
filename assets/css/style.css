@@ -16,6 +16,7 @@ h1, h2 {
     font-size: 200%;
 }
 
+
 /* logo */
 
 #logo {
@@ -45,11 +46,10 @@ h1, h2 {
 #about {
     font-size: 150%;
     text-align: center;
-    color: #ffbe7bff;
     padding: 0 20px;
-    
-    
+
 }
+
 
 /* navigation links */
 
@@ -183,6 +183,7 @@ footer > p {
     border: 1px solid #eed971ff;
     border-radius: 2px;
     background-color: #eed971ff;
+    font-family: Arial, Helvetica, sans-serif;
     
 }
 
