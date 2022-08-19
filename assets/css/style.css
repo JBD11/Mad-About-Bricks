@@ -136,20 +136,21 @@ footer > p {
 
 .form-section {
     clear: left;
-    background: url('../images/figures-6484647__480.jpeg');
+    background: url('../images/texture-701398__480.jpeg') no-repeat;
     background-size: cover;
-    background-position: center;
     height: 700px;
 }
 
 .contact-form {
-    margin: 50px 5% 0 0;
+    margin: 40px 10% 0 0;
     color: #000000;
-    background-color:#ffa351ff;
-    max-width: 200px;
+    background-color: #ffa351ff;
+    max-width: 300px;
     position: absolute;
-    left: 15%;
     padding: 100px;
+    left: 10%;
+
+    
 
 }
 .contact-form h2 {
@@ -195,13 +196,14 @@ p {
 /* Media queries */
 
 /* For large to medium screens sizes from 1200px wide and down */
-@media screen and (max-width: 1200px){
+@media screen and (max-width: 1200px) {
    
 #about {
-    width: 65%;
+    width: 50%;
     height: 1200px;
     margin: 0 auto;
 }
+
 
 }
 
@@ -211,19 +213,29 @@ p {
     #menu {
         clear: left;
         float: left;
-        margin-left: 30px;
-        margin-bottom: 20px;
+        margin-left: 20px;
+        margin-bottom: 10px;
         line-height: 20px;
     }
 
     #about {
         width: 90%;
         height: 1200px;
-        margin: 0;
+        margin: 0 auto;
+    }
+    .contact-form {
+        left: 0;
     }
 
-     
-        
+    h2 {
+        width: 100%;
+    }
+
+    p {
+        padding: 0 20px;
+
+    }
+
     #photos {
         column-count: 3;
     }
@@ -234,6 +246,7 @@ p {
     #photos {
         column-count: 2;
     }
+   
 }
 
    
