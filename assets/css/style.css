@@ -11,7 +11,7 @@
 /* headings */
 
 h1, h2 {
-    color: #eed971ff;
+    color: #000000;
     text-transform: uppercase;
     font-size: 200%;
 }
@@ -21,14 +21,14 @@ h1, h2 {
 #logo {
     float: left;
     font-size: 400%;
-    color: #eed971ff;
+    color: #000000;
     margin-left: 20px;
 }
 
 /* hero image*/
 
 #hero-outer {
-    height: 600px;
+    height: 10px;
     width: 100%;
     overflow: hidden;
     position: relative;
@@ -55,7 +55,7 @@ h1, h2 {
 
 #menu {
     font-size: 150%;
-    color: #ffbe7bff;
+    color: #000000;
     list-style-type: none;
     text-decoration-line: none;
 }
@@ -70,7 +70,7 @@ h1, h2 {
 }
 
 #menu a {
-    color: #eed971ff;
+    color: #000000;
     border: none;
     text-decoration: underline;
 }
@@ -167,12 +167,12 @@ footer > p {
     text-align: center;
     font-size: 150%;
     background-color: #eed971ff;
-    color: #ffa351ff;
+    color: #000000;
     display: block;
 }
 
 .send-button:hover {
-    color: #000000;
+    color: #ffa351ff;
 }
 
 .text-input {
