@@ -1,7 +1,9 @@
 # Mad About Bricks
 
-Mad About Bricks is a website of a lego club
+Mad About Bricks is a website created for a lego club
 where the main goal is to get the community together and share their passion about lego.
+This is the first milestone project for Code Institute Full Stack Software Develpment course.
+
 <img width="1440" alt="Screenshot 2022-08-21 at 12 34 05" src="https://user-images.githubusercontent.com/109480013/185789135-7b866cf6-dc9d-48c8-bdac-f143702e3381.png">
 
 ## Live Site
