@@ -29,25 +29,44 @@ The social media icons located in the footer of the page were obtained from [
 
 ## Features
 
-The logo features on the 3 pages of the website and you can access the homepage by clicking in the logo at any given time.
+•The logo features on the 3 pages of the website and you can access the homepage by clicking in the logo at any given time.
 
 
-The Navigation bar is responsive and has links to the 3 pages of the website, users can navigate between pages with ease.
+•The Navigation bar is responsive and has links to the 3 pages of the website, users can navigate between pages with ease.
+It also changes color when the user hovers over it.
 
 
-The home page tells users about the club, has a map where users can see the location of the club and informs users what to do if they would like to join the club.
+•The home page tells users about the club, has a map where users can see the location of the club and informs users what to do if they would like to join the club.
 The hero image was obtained from [pixabay]
 (https://pixabay.com/images/search/lego/)
 
 
-The gallery page has photos of the kind of projects that can be done in the club.
+•The gallery page has photos of the kind of projects that can be done in the club.
 <img width="1438" alt="Screenshot 2022-08-21 at 16 33 06" src="https://user-images.githubusercontent.com/109480013/185798881-aaa5f6a9-7669-4193-815d-ea5345c7d98c.png">
 
 All photos for the gallery were obtained from [pixabay
 ](https://pixabay.com/images/search/lego/)
 
 
-The contact page has a contact form that users can fill and submit and a phone number to contact the club.
+•The contact page has a contact form that users can fill and submit and a phone number to contact the club.
 The background image was obtained from [pixabay
 ](https://pixabay.com/images/search/lego/)
+
+•The footer section has links to different social media sites and can be found on all 3 pages of the website
+if a user clicks on the social media icons the link will open a new tab on the browser.
+Like the navigation bar it also changes color when users hover over it.
+
+## Testing
+
+### HTML Validation
+
+Home page
+
+
+Gallery page
+
+
+Contact page
+
+
 
