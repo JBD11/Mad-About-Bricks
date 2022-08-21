@@ -36,18 +36,18 @@ The Navigation bar is responsive and has links to the 3 pages of the website, us
 
 •Home Page
 The home page tells users about the club, has a map where users can see the location of the club and informs users what to do if they would like to join the club.
-The hero image was obtained from [
-](https://pixabay.com/images/search/lego/)
+The hero image was obtained from [pixabay]
+(https://pixabay.com/images/search/lego/)
 
 •Gallery Page
 The gallery page has photos of the kind of projects that can be done in the club.
 <img width="1438" alt="Screenshot 2022-08-21 at 16 33 06" src="https://user-images.githubusercontent.com/109480013/185798881-aaa5f6a9-7669-4193-815d-ea5345c7d98c.png">
 
-All photos for the gallery were obtained from [
+All photos for the gallery were obtained from [pixabay
 ](https://pixabay.com/images/search/lego/)
 
 •Contact Page
 The contact page has a contact form that users can fill and submit and a phone number to contact the club.
-The background image was obtained from [
+The background image was obtained from [pixabay
 ](https://pixabay.com/images/search/lego/)
 
