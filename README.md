@@ -16,6 +16,11 @@ The main Page acts as the default page when the website loads while you can navi
 
 ## Color scheme
 The color scheme chosen for this project was:
-[
-](https://colors.muz.li/palette/000000/ffa351/eed971/F1F2F3/F1F2F3)
+#000000 Black
+![download](https://user-images.githubusercontent.com/109480013/185793703-95c01f5e-3503-4264-9445-9e54bac447b1.png)
 
+#ffa351ff Blazing Orange
+![download (1)](https://user-images.githubusercontent.com/109480013/185793718-2e371719-2e57-4c74-994b-1ed4594b36c0.png)
+
+#eed971ff Yellow Cream
+![download (2)](https://user-images.githubusercontent.com/109480013/185793727-db15f866-643a-40ec-b72f-ce0fd14e853a.png)
