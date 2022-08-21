@@ -61,12 +61,28 @@ Like the navigation bar it also changes color when users hover over it.
 ### HTML Validation
 
 Home page
-
+<img width="1440" alt="Screenshot 2022-08-21 at 17 07 06" src="https://user-images.githubusercontent.com/109480013/185801187-075c2d14-7f3b-4fcc-abe9-b57b6922eef3.png">
 
 Gallery page
-
+<img width="1440" alt="Screenshot 2022-08-21 at 17 25 11" src="https://user-images.githubusercontent.com/109480013/185801196-2d2de0d7-ced4-4fb3-85f4-857f61419ee3.png">
 
 Contact page
+<img width="1440" alt="Screenshot 2022-08-21 at 17 24 19" src="https://user-images.githubusercontent.com/109480013/185801206-5a68fdc9-6604-4bb8-befa-0c83067c573a.png">
+
+### CSS Validation
+
+<img width="1440" alt="Screenshot 2022-08-21 at 17 26 51" src="https://user-images.githubusercontent.com/109480013/185801247-7efe7357-b4d9-46d0-ab97-4da7830e0cea.png">
+
+## Performance
+
+### Desktop
+
+<img width="1440" alt="Screenshot 2022-08-21 at 17 36 55" src="https://user-images.githubusercontent.com/109480013/185801596-e5b9e3a1-00bb-439d-a2a5-e3841531cfd8.png">
+
+### Mobile
+
+<img width="1439" alt="Screenshot 2022-08-21 at 17 38 58" src="https://user-images.githubusercontent.com/109480013/185801601-589d2a00-e946-4904-980d-a05ac899676e.png">
+
 
 
 
