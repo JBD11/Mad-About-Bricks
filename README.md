@@ -17,7 +17,7 @@ CSS
 
 ## Project Goals
 
-To show my knowlodge and understanding of HTML and CSS for the Code Institute Full Stack Software Develpment course
+To show my knowlodge and understanding of HTML and CSS for the Code Institute Full Stack Software Develpment course.
 
 ## Site Structure
 
