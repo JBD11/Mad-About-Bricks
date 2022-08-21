@@ -10,6 +10,11 @@ This is the first milestone project for Code Institute Full Stack Software Devel
 
 https://jbd11.github.io/Mad-About-Bricks/
 
+## Languages Used
+
+HTML
+CSS
+
 ## Project Goals
 
 To show my knowlodge and understanding of HTML and CSS for the Code Institute Full Stack Software Develpment course
